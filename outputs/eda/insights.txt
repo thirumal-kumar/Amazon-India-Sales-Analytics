@@ -1,0 +1,5 @@
+Total revenue: ₹72,205,766,534
+Total orders: 1,059,716
+Avg order value: ₹68,137
+Top city: Mumbai
+Top category: Smartphones

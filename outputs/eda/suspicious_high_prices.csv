@@ -1,0 +1,1 @@
+transaction_id,customer_id,product_id,order_date,final_amount_inr,category,city,payment_method,is_prime_member,is_possible_duplicate,duplicate_count,year,month,month_name

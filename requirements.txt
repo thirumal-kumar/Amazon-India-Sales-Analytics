@@ -1,0 +1,14 @@
+gdown
+streamlit
+pandas
+numpy
+altair
+plotly
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+mlxtend
+sqlalchemy
+openpyxl
+Pillow

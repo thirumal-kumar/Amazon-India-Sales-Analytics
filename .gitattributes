@@ -1,0 +1,2 @@
+outputs/amazon_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+outputs/amazon_analytics.db filter=lfs diff=lfs merge=lfs -text

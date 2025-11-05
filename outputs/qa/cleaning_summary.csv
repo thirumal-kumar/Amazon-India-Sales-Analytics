@@ -1,0 +1,7 @@
+metric,value
+rows_before,1127609
+rows_after,1059716
+rows_dropped_due_to_invalid_dates,67893
+top_category_after,Smartphones(777442); Laptops(82957); Smart Watches(70135); Tablets(66087); Audio(47615)
+top_city_after,Mumbai(132636); Delhi(115735); Bengaluru(96139); Chennai(79678); Pune(63658)
+top_payment_method_after,UPI(361119); COD(303518); Credit Card(161772); Debit Card(131689); Net Banking(61124)
